@@ -1,5 +1,5 @@
 {
-    "name": "api-rest",
+    "name": "@aculquic/curso-nivelador-api",
     "version": "1.0.0",
     "description": "Practica01 API REST",
     "main": "index.js",
